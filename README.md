@@ -14,7 +14,7 @@ Este projeto tem como objetivo criar uma documentação com o [Swagger](https://
 
 ```bash
 # Clonar repositório
-git clone
+git clone https://github.com/brunocoelhor/node-swagger-documentation.git
 ```
 
 ```bash
