@@ -32,4 +32,10 @@ yarn install
 yarn start
 ```
 
+### Link para acessar a documentação
+
+```
+http://localhost:3000/api-docs/
+```
+
 
