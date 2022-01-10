@@ -10,7 +10,7 @@ Este projeto tem como objetivo criar uma documentação com o [Swagger](https://
 * Express
 * Swagger
 
-###Pré-requisitos: NodeJS, NPM/YARN
+### Pré-requisitos: NodeJS, NPM/YARN
 
 ```bash
 # Clonar repositório
@@ -31,27 +31,5 @@ yarn install
 # Executar o projeto
 yarn start
 ```
-
-
-
-<!-- ### Iniciando o package.json do projeto
-```bash
-yarn init -y
-```
-
-###Instalando as dependências
-```bash
-yarn add express uuid
-```
-
-###Instalando as dependências de desenvolvimento
-```bash
-yarn add typescript @types/express @types/uuid ts-node-dev -D
-```
-
-###Inicializar o tsconfig.json
-```bash
-tsc --init
-``` -->
 
 
