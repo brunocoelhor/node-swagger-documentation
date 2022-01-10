@@ -59,6 +59,7 @@ router.put("/products/:id", ensureAuthenticated, (request, response) => {
   }
 
   const product: ProductsDTO = Object.assign({
+    id,
     name,
     description,
     price
